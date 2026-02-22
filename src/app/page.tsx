@@ -262,7 +262,7 @@ export default function Home() {
           </form>
 
           <div className="space-y-2 text-gray-300 mt-12">
-            <p className="text-lg"><strong>Call us at Phone:</strong> +91 7795947296</p>
+            <p className="text-lg"><strong>Call us at Phone:</strong> +91 XXXXXXXXXX</p>
             <p className="text-lg"><strong>TEAM OCTARISE</strong></p>
           </div>
         </div>
